@@ -1,5 +1,12 @@
-# Boids-Simulation
+# Boids Simulation
 Boids Simulation using `XNA`
+
+## Introduction
+Boids is an artificial life simulation originally developed by Craig Reynolds. The simulation replicates the behaviour of flock of birds. It also implements the concept of an autonomous agent. Instead of controlling the interactions of an entire flock, however, the Boids simulation only specifies the behavior of each individual bird.
+
+The simulation has been inspired from [[Flocking by Daniel Shiffman]](https://processing.org/examples/flocking.html)
+
+![View Boids Demo](https://camo.githubusercontent.com/882827aef77eaea522aec953fffa46759d4b557e/68747470733a2f2f73332d75732d776573742d312e616d617a6f6e6177732e636f6d2f72657a612d776f72642f626f6964732e676966)
 
 ## Installation
 
